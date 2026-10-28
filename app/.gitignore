@@ -1,0 +1,21 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# PyCharm settings
+.idea/
+
+# Temporary screenshots
+test_screenshot.png
+screenshots/
+
+# Local data
+data/
+
+# Secrets
+.env
